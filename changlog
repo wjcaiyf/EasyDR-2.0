@@ -1,0 +1,6 @@
+2018-07-27 --- 1.1 	--- Solve the problem of SSH Remote Installation without exit
+2018-07-27 --- 1.1 	--- Solve the problem of SSH Remote execution "easydr start" not quitting
+2018-07-27 --- 1.1 	--- Start the EasyDR process by default after installation, change to no start by default.
+2018-08-06 --- 1.2 	--- Add size limit: the log file is maximum 50KB
+2018-08-08 --- 1.3 	--- Add update action.
+2018-11-01 --- 2.0 	--- Add Monitor vi
